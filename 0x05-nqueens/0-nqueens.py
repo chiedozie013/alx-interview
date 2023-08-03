@@ -57,3 +57,4 @@ if (n < 4):
 board = create_board(int(n))
 row = 0
 safe_positions(board, row, int(n))
+
