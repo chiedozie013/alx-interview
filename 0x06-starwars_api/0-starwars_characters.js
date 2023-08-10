@@ -42,4 +42,3 @@ const getCharacterNames = async () => {
 };
 
 getCharacterNames();
-
