@@ -18,3 +18,4 @@ def make_change(coins, total):
         if current_total == total:
             return used_coins
     return -1
+
